@@ -1,0 +1,8 @@
+Blocks 
+When choosing names avoid picking ones from the C++ library
+Curly braces should open at the beginning of a block of code and closing it at the end of the block
+Lines shouldnt be too long so that the user does not have to scroll to see where the line ends
+or writing less than 80 characters
+If a line is too long try to reduce indentation or rewrite your code
+Expressions should be easy to read and if complex and long put in parentheses where the user
+can easily read it
