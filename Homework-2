@@ -45,3 +45,12 @@ Global variable
 
 Classes should all be in the same general location of the file. They should be listed and defined
 before the exectuion of the main function.
+
+Naming
+
+    All names will be lowercase. If there are two words in a name then they will be seperated by 
+    an underscore. The name is to be directly related to the contents or function of what they 
+    are representing.
+    Examples:
+        function()
+        double_function()
