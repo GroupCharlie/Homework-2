@@ -54,3 +54,26 @@ Naming
     Examples:
         function()
         double_function()
+
+On positioning '{' & '}'
+
+    For simplicity and clarity both '{' & '}' will recieve their own line in the program.
+    Examples:
+        int main()
+        {
+            return 0
+        }
+
+        Or
+
+        int main()
+        {
+            for example;
+            {
+                return 42;
+            }
+
+            return 42;
+        }
+
+
